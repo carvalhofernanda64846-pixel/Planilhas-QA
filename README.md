@@ -18,7 +18,7 @@
 - [Tabela de Casos de Teste simples de UI automatizado - (cypress)](https://drive.google.com/file/d/176T0XtdVzt7HvTJNnQAZskQzXDFZ_0Wt/view?usp=sharing)
 - [Tabela de decisão - checkout](https://drive.google.com/file/d/1xy8tIghmEA7YfwESQMcGRe7wrl6OkQqC/view?usp=sharing)
 - [Tabela de valor limite](https://drive.google.com/file/d/1iq5hAYmG7HSiW58e1QOrvx7z4pgsSadu/view?usp=sharing)
-- [Tabela de partição de equivalência](https://drive.google.com/file/d/1WWn7jjpJQIWlxxc_W1-lc7q6VmYA5nyG/view?usp=sharing)
+- [Tabela de partição de equivalência](https://drive.google.com/file/d/1AsVWKQNNnj-Npc3aMLpsRFCODqyKkbiR/view?usp=sharing)
 - [Tabela de bugs](https://drive.google.com/file/d/10prIcu6nljqIbpkuRvP8kzbQXyWSgQt0/view?usp=sharing)
 - [Tabela de API manual - Login](https://drive.google.com/file/d/1W_ATspBh8UBcv4V7cuM1Scigcb-YbRs2/view?usp=sharing)
 - [Tabela de API manual - Cadastro](https://drive.google.com/file/d/1S4DqHpkqucggu8h-VbeX8xOE6FSBkbll/view?usp=sharing)
