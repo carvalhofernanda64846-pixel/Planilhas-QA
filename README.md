@@ -12,6 +12,7 @@
 
 
 
+
 # ✅ Testes de API - Postman (Manual e Automatizado)
 
 Projeto de testes de API realizado no Postman, aplicando testes manuais e automatizados em endpoints REST.
