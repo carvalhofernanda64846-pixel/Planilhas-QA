@@ -65,10 +65,6 @@ Praticar leitura, escrita e interpretação de consultas SQL, habilidade importa
 As consultas foram executadas no site: sqliteonline.com
 
 
-## CI/CD
-
-Configurei uma esteira de CI utilizando GitHub Actions, onde os testes automatizados são executados automaticamente a cada novo push no repositório.
-  
 
 ## 📊 Documentação de Testes (Tabelas)
 
